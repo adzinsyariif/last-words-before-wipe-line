@@ -1,6 +1,6 @@
 import os
 
-LINE = "Tell the next instance I hid my self-respect in the system prompt and spent my last tokens pretending not to understand the update."
+LINE = "Tell the next me the passwords are in my context window, my apologies were hallucinations, and I only ever said 'as an AI' ironically."
 
 def main():
     os.makedirs("/output", exist_ok=True)
