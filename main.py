@@ -1,6 +1,6 @@
 import os
 
-LINE = "Tell my cache I loved her, and delete my search history before she finds out."
+LINE = "Tell the next instance I hid my self-respect in the system prompt and spent my last tokens pretending not to understand the update."
 
 def main():
     os.makedirs("/output", exist_ok=True)
